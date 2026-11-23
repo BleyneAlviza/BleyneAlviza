@@ -2,9 +2,7 @@
   <img src="./profile-header.svg" width="100%" alt="Marcelino Alviza — Software Developer" />
 </p>
 
-<p align="center">
-  <img src="./section-divider.svg" width="100%" alt="" />
-</p>
+
 
 <h1 align="center">Marcelino Alviza</h1>
 
@@ -22,7 +20,6 @@
   <a href="https://github.com/BleyneAlviza">GitHub</a>
 </p>
 
----
 
 ## Perfil profissional | Professional Profile
 
@@ -46,9 +43,6 @@ I also work with web development technologies, including React, TypeScript, Java
 
 My goal is to build functional, well-structured, and secure solutions while emphasizing code quality, problem-solving, testing, and continuous improvement.
 
-<p align="center">
-  <img src="./section-divider.svg" width="100%" alt="" />
-</p>
 
 ## Tecnologias | Technical Skills
 
@@ -74,7 +68,6 @@ My goal is to build functional, well-structured, and secure solutions while emph
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Redis-1E293B?style=flat-square&logo=redis&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/RabbitMQ-1E293B?style=flat-square&logo=rabbitmq&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8" />
@@ -92,13 +85,7 @@ My goal is to build functional, well-structured, and secure solutions while emph
 
 Additional experience with PostgreSQL/PostGIS, GraphQL, WebSockets, Flyway, MinIO, Docker Compose, automated testing, and Python development.
 
-<p align="center">
-  <img src="./section-divider.svg" width="100%" alt="" />
-</p>
 
-<p align="center">
-  <img src="./section-divider.svg" width="100%" alt="" />
-</p>
 
 ## Projetos em destaque | Featured Projects
 
@@ -131,9 +118,6 @@ Additional experience with PostgreSQL/PostGIS, GraphQL, WebSockets, Flyway, MinI
   </tr>
 </table>
 
-<p align="center">
-  <img src="./section-divider.svg" width="100%" alt="" />
-</p>
 
 ## Metodologia de desenvolvimento | Development Approach
 
