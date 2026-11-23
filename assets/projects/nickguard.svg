@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">NickGuard</title><desc id="desc">Cartão de projeto com escudo abstrato e circuitos para um protótipo de monitorização defensiva Linux.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1A2E"/><stop offset="1" stop-color="#102B48"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1677FF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+  </defs>
+  <rect width="640" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="118" cy="144" r="105" fill="#1677FF" opacity=".06"/>
+  <g fill="none" stroke="#38BDF8" stroke-opacity=".28" stroke-width="2"><path d="M27 70h60l18 18h26M20 218h66l20-20h25M150 35v43l-18 18M158 250v-36l-19-19"/><circle cx="27" cy="70" r="4" fill="#38BDF8"/><circle cx="20" cy="218" r="4" fill="#38BDF8"/><circle cx="150" cy="35" r="4" fill="#38BDF8"/></g>
+  <path d="M110 52 181 77v57c0 49-30 87-71 108-41-21-71-59-71-108V77z" fill="#10365A" stroke="url(#accent)" stroke-width="4"/>
+  <path d="M110 72 163 91v43c0 35-20 64-53 84-33-20-53-49-53-84V91z" fill="#0A2039" stroke="#38BDF8" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M110 112v48M86 136h48" stroke="#7DD3FC" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+  <circle cx="110" cy="136" r="29" fill="none" stroke="#7DD3FC" stroke-width="3"/>
+  <text x="246" y="62" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">LINUX SECURITY LAB</text>
+  <text x="246" y="108" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">NickGuard</text>
+  <text x="246" y="139" fill="#DCEBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Monitorização defensiva local</text>
+  <path d="M246 160h345" stroke="#38BDF8" stroke-opacity=".35"/>
+  <text x="246" y="190" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Métricas, inventário de processos e rede,</text>
+  <text x="246" y="213" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">integridade de ficheiros e resposta simulada.</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="246" y="238" width="70" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="281" y="256" fill="#DDF5FF" text-anchor="middle">C</text>
+    <rect x="325" y="238" width="98" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="374" y="256" fill="#DDF5FF" text-anchor="middle">PYTHON</text>
+    <rect x="432" y="238" width="82" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="473" y="256" fill="#DDF5FF" text-anchor="middle">LINUX</text>
+  </g>
+</svg>

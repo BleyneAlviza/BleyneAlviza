@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">SGEI — Sistema de Gestão Escolar e Inscrições</title><desc id="desc">Cartão de projeto com ilustração abstrata de uma instituição de ensino e um painel digital.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1A2E"/><stop offset="1" stop-color="#102B48"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1677FF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+  </defs>
+  <rect width="640" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="116" cy="145" r="110" fill="#1677FF" opacity=".06"/>
+  <rect x="24" y="56" width="184" height="160" rx="16" fill="#0D2743" stroke="#38BDF8" stroke-opacity=".4"/>
+  <path d="M48 113 116 76l68 37z" fill="url(#accent)" opacity=".9"/>
+  <rect x="55" y="116" width="122" height="10" rx="3" fill="#7DD3FC"/>
+  <g fill="#DCEBFA"><rect x="62" y="137" width="18" height="54" rx="2"/><rect x="91" y="137" width="18" height="54" rx="2"/><rect x="120" y="137" width="18" height="54" rx="2"/><rect x="149" y="137" width="18" height="54" rx="2"/></g>
+  <rect x="42" y="194" width="148" height="9" rx="4.5" fill="#38BDF8" opacity=".6"/>
+  <rect x="146" y="45" width="80" height="62" rx="9" fill="#14395D" stroke="#38BDF8" stroke-opacity=".55"/>
+  <path d="M160 88h50M160 74h36M160 60h43" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round"/>
+  <text x="250" y="62" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">EDUCATION MANAGEMENT</text>
+  <text x="250" y="108" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">SGEI</text>
+  <text x="250" y="139" fill="#DCEBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Gestão escolar e inscrições</text>
+  <path d="M250 160h340" stroke="#38BDF8" stroke-opacity=".35"/>
+  <text x="250" y="190" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Gestão de processos escolares, inscrições</text>
+  <text x="250" y="213" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">e acompanhamento académico.</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="250" y="238" width="83" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="291.5" y="256" fill="#DDF5FF" text-anchor="middle">JAVA</text>
+    <rect x="342" y="238" width="132" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="408" y="256" fill="#DDF5FF" text-anchor="middle">SPRING BOOT</text>
+    <rect x="483" y="238" width="92" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="529" y="256" fill="#DDF5FF" text-anchor="middle">REACT</text>
+  </g>
+</svg>

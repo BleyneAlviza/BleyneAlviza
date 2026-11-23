@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">Website institucional LUMI</title><desc id="desc">Cartão de projeto com uma representação abstrata de um website institucional responsivo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1A2E"/><stop offset="1" stop-color="#102B48"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1677FF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+  </defs>
+  <rect width="640" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="116" cy="145" r="108" fill="#1677FF" opacity=".06"/>
+  <rect x="22" y="55" width="195" height="151" rx="14" fill="#0B2039" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M22 79h195" stroke="#38BDF8" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="40" cy="67" r="4" fill="#38BDF8"/><circle cx="55" cy="67" r="4" fill="#38BDF8" opacity=".65"/><circle cx="70" cy="67" r="4" fill="#38BDF8" opacity=".4"/>
+  <rect x="39" y="96" width="68" height="91" rx="7" fill="#12385D"/>
+  <path d="M50 112h46M50 125h35" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round"/>
+  <rect x="119" y="96" width="80" height="9" rx="4.5" fill="#DCEBFA" opacity=".85"/>
+  <rect x="119" y="114" width="70" height="6" rx="3" fill="#8FAFCB" opacity=".7"/>
+  <rect x="119" y="130" width="62" height="6" rx="3" fill="#8FAFCB" opacity=".55"/>
+  <rect x="119" y="153" width="58" height="23" rx="11.5" fill="url(#accent)"/>
+  <rect x="50" y="194" width="140" height="6" rx="3" fill="#38BDF8" opacity=".6"/>
+  <text x="250" y="62" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">CORPORATE WEB DEVELOPMENT</text>
+  <text x="250" y="108" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Website LUMI</text>
+  <text x="250" y="139" fill="#DCEBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Presença digital institucional</text>
+  <path d="M250 160h340" stroke="#38BDF8" stroke-opacity=".35"/>
+  <text x="250" y="190" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Website institucional para apresentar serviços,</text>
+  <text x="250" y="213" fill="#B8C8DA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">soluções tecnológicas e informação empresarial.</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="250" y="238" width="92" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="296" y="256" fill="#DDF5FF" text-anchor="middle">ASTRO</text>
+    <rect x="351" y="238" width="132" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="417" y="256" fill="#DDF5FF" text-anchor="middle">TAILWIND CSS</text>
+    <rect x="492" y="238" width="110" height="27" rx="13.5" fill="#173D64" stroke="#38BDF8" stroke-opacity=".5"/><text x="547" y="256" fill="#DDF5FF" text-anchor="middle">TYPESCRIPT</text>
+  </g>
+</svg>
