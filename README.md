@@ -1,4 +1,11 @@
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Junior+Software+Developer;Backend+%7C+Java+%7C+Spring+Boot;Web+Development+%7C+React+%7C+TypeScript;Building+solutions+through+technology"
+    alt="Software Developer Introduction"
+  />
+</p>
+
+<p align="center">
   <img src="./profile-header.svg" width="100%" alt="Marcelino Alviza — Software Developer" />
 </p>
 
@@ -131,6 +138,13 @@ Additional experience with PostgreSQL/PostGIS, GraphQL, WebSockets, Flyway, MinI
 | 06 | Documentação e manutenção |
 
 ---
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BleyneAlviza/BleyneAlviza/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contributions"
+  />
+</p>
 
 ## Contacto | Contact
 
