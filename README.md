@@ -96,33 +96,40 @@ Additional experience with PostgreSQL/PostGIS, GraphQL, WebSockets, Flyway, MinI
   <img src="./section-divider.svg" width="100%" alt="" />
 </p>
 
+<p align="center">
+  <img src="./section-divider.svg" width="100%" alt="" />
+</p>
+
 ## Projetos em destaque | Featured Projects
 
-### Sistema de Votação por QR Code
-
-Plataforma académica de votação que permite consultar projetos através de QR Codes, autenticar utilizadores, registar votos e apresentar resultados.
-
-**Technologies:** Java, Spring Boot, PostgreSQL, JWT, HTML, JavaScript.
-
-### NickGuard
-
-Protótipo de monitorização e resposta defensiva para Linux, com recolha de métricas do sistema, inventário de processos e rede, verificação de integridade e mecanismos de resposta em modo de simulação.
-
-**Technologies:** C, Python, Linux, pytest.
-
-### SGEI — Sistema de Gestão Escolar e Inscrições
-
-Sistema orientado à gestão de processos escolares, inscrições e acompanhamento académico, com componentes backend e frontend.
-
-**Technologies:** Java, Spring Boot, React, TypeScript, PostgreSQL.
-
-### Website institucional LUMI
-
-Website institucional desenvolvido para apresentar soluções tecnológicas, serviços, pacotes e informação empresarial.
-
-**Technologies:** Astro, Tailwind CSS.
-
-[Website institucional LUMI](https://lumitecnologies.com)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/projects/votacao-qr.svg"
+           width="100%"
+           alt="Sistema de Votação por QR Code" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/projects/nickguard.svg"
+           width="100%"
+           alt="NickGuard — Linux Security" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/projects/sgei.svg"
+           width="100%"
+           alt="SGEI — Sistema de Gestão Escolar" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://lumitecnologies.com">
+        <img src="./assets/projects/lumi-website.svg"
+             width="100%"
+             alt="Website institucional LUMI" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./section-divider.svg" width="100%" alt="" />
